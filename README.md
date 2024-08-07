@@ -3,7 +3,7 @@
 
 ###
 [![Temps total](https://wakatime.com/badge/user/52636d89-52cb-4792-b60a-63d479494ca6.svg)](https://wakatime.com/@52636d89-52cb-4792-b60a-63d479494ca6)
-
+<img src="https://komarev.com/ghpvc/?username=Skso-cmd" alt="Total views since Apr 18 2024" />
 <img align="right" height="150" src="https://i.pinimg.com/originals/02/dc/5b/02dc5baf1eeb939ba787ce260a945efa.jpg"  />
 
 ###
@@ -24,7 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img src="https://komarev.com/ghpvc/?username=Skso-cmd" alt="Total views since Apr 18 2024" />
 </div>
 
 ###
