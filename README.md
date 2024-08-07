@@ -3,6 +3,7 @@
 
 ###
 [![Temps total](https://wakatime.com/badge/user/52636d89-52cb-4792-b60a-63d479494ca6.svg)](https://wakatime.com/@52636d89-52cb-4792-b60a-63d479494ca6)
+[![Vues du profil](https://camo.githubusercontent.com/02dc5baf1eeb939ba787ce260a945efa)]
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/02/dc/5b/02dc5baf1eeb939ba787ce260a945efa.jpg"  />
 
