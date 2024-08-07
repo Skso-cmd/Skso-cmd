@@ -3,7 +3,6 @@
 
 ###
 [![Temps total](https://wakatime.com/badge/user/52636d89-52cb-4792-b60a-63d479494ca6.svg)](https://wakatime.com/@52636d89-52cb-4792-b60a-63d479494ca6)
-[![Vues du profil](https://camo.githubusercontent.com/025ed14637b53bebbec83f8287ecce3b654b7970d154f3021eadbb25f56d134d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30322f64632f35622f30326463356261663165656239333962613738376365323630613934356566612e6a7067)]
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/02/dc/5b/02dc5baf1eeb939ba787ce260a945efa.jpg"  />
 
